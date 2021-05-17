@@ -1,8 +1,8 @@
 //
 //  Helper.swift
-//  Photo Editor
+//  PhotoEditor
 //
-//  Created by Andreas Schultz on 07.09.20.
+//  Created by Hung-Chun Tsai on 2021-03-12.
 //
 
 import Foundation

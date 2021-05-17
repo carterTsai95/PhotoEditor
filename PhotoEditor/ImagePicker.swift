@@ -1,8 +1,8 @@
 //
 //  ImagePicker.swift
-//  Photo Editor
+//  PhotoEditor
 //
-//  Created by Andreas Schultz on 06.09.20.
+//  Created by Hung-Chun Tsai on 2021-03-12.
 //
 
 import SwiftUI
